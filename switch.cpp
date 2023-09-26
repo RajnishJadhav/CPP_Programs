@@ -7,11 +7,11 @@ using namespace std;
 int main()
 {
 	
-	char b;
+	char a;
 
  cout<<"Enter a character: ";
  cin>>a;
-	switch (b) {
+	switch (a) {
 	case 'A':
 		cout << "Character is A";
 		break;
@@ -27,4 +27,5 @@ int main()
 	}
 	return 0;
 }
+
 
