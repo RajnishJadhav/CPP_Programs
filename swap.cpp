@@ -10,6 +10,6 @@ int main(){
 	  a=b;
 	  b=temp;
 	  
-	  cout<<"Numbers after swapping are: "<<a<<" "<<b;
+	  cout<<"Numbers after swapping are: "<<a<<" "<<b; //swapping number programs
 	
 }
